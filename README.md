@@ -1,5 +1,5 @@
 ## Hi
-I'm a Full Stack Developer with 4 years of experience in Ruby on Rails and Javascript. I also have experience with technologies like node.js, Vue.js and databases like MySql, MongoDB and PostgreSQL. I'm familiar with agile methodologies like Scrum and Kanban. I use tools like Trello and Github for project management.
+I'm a Full Stack Developer with 6 years of experience in Ruby on Rails and Javascript. I also have experience with technologies like node.js, Vue.js and databases like MySql, MongoDB and PostgreSQL. I'm familiar with agile methodologies like Scrum and Kanban. I use tools like Trello and Github for project management.
    
 ## Tech Stack:
 <div style="display: inline_block"><br>
